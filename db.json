@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "description",
+      "userId": "102168239142244064820",
+      "id": 1
+    },
+    {
+      "title": "stream 2 edited",
+      "description": "description",
+      "userId": "102168239142244064820",
+      "id": 2
+    },
+    {
+      "title": "stream 3 also edited",
+      "description": "description updated too",
+      "userId": "102168239142244064820",
+      "id": 3
+    }
+  ]
+}
